@@ -1,0 +1,59 @@
+.container-fluid {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+.tmp1{
+  text-align: center;
+  display: inline-block;
+}
+.tmp2{
+  text-align: center;
+  display: inline-block;
+}
+.mine .btn{
+  border: 0;
+  background-color: #4ECCA3;
+  color: #393E46;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+}
+.mine{
+  margin-top: 20px;
+  text-align: center;
+}
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px 30px 60px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  margin-top: 16px;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 60%;
+}
+
+footer {
+  margin-top: 60px;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
